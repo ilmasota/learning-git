@@ -11,7 +11,7 @@ body {
   max-width: 500px;
 }
 
-h1, h4 {
+h1 {
   text-align: left;
   max-width: 500px;
   margin: auto;
@@ -21,10 +21,13 @@ h1 {
   padding-top: 40px;
 }
 
-h4 {
+.author {
   padding-top: 20px;
   font-style: italic;
   font-weight: normal;
+  max-width: 500px;
+  margin: auto;
+  text-align: left;
 }
 
 .translation {
