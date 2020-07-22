@@ -26,3 +26,20 @@ h4 {
   font-style: italic;
   font-weight: normal;
 }
+
+.translation {
+  margin-bottom: 0.5em;
+  font-style: italic;
+}
+
+.translation-note {
+  text-align: left;
+  margin: auto;
+  max-width: 500px;
+  font-size: 13px;
+
+}
+
+.translation-note a {
+  text-decoration: none;
+}
